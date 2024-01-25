@@ -1,0 +1,9 @@
+{
+        "[entrex]":{
+        "editor.rulers": [
+            40
+        ],
+        "editor.glyphMargin": false,
+        "editor.minimap.enabled": false,
+    },
+}
